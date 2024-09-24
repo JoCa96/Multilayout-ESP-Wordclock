@@ -55,10 +55,6 @@ public:
             setFrontMatrixWord(2, 1, 7);
             break;
 
-        case FrontWord::dreiviertel:
-            // NOT AVAILABLE
-            break;
-
         case FrontWord::min_5:
             setFrontMatrixWord(0, 0, 3);
             break;
