@@ -20,7 +20,7 @@
  *
  */
 
-class De10x11Clock_t : public iUhrType {
+class De10x11Fablab_t : public iUhrType {
 public:
     virtual LanguageAbbreviation usedLang() override {
         return LanguageAbbreviation::DE;
@@ -141,4 +141,4 @@ public:
     };
 };
 
-De10x11Clock_t _de10x11Clock;
+De10x11Fablab_t _de10x11Clock;
