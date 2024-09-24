@@ -36,7 +36,6 @@ public:
         switch (word) {
 
         case FrontWord::es_ist:
-
             setFrontMatrixWord(0, 9, 10);
             setFrontMatrixWord(0, 5, 7);
             break;
