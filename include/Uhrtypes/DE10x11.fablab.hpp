@@ -141,4 +141,4 @@ public:
     };
 };
 
-De10x11Fablab_t _de10x11Clock;
+De10x11Fablab_t _de10x11Fablab;
