@@ -118,6 +118,7 @@ let TRANSLATION_DE_DE = {
 			"variant": "Wahl der Uhrvariante",
 			"de-10-11": "🇩🇪 10 × 11",
 			"de-10-11-alt": "🇩🇪 10 × 11 Alternativ",
+			"de-10-11-fab-lab": "🏆 10 × 11 Fablab",
 			"de-10-11-alt-frame": "🇩🇪 10 × 11 Alternativer Rahmen",
 			"de-10-11-vertical": "🇩🇪 10 × 11 Vertikal",
 			"de-10-11-clock": "🇩🇪 10 × 11 Uhr",
